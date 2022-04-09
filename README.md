@@ -1,4 +1,4 @@
-# THIS IS FOR PARADEX ADMISN ONLY
+# THIS IS FOR PARADEX ADMIN ONLY
 Release 0.42.0
 Started On: July 22nd, 2021
 Finsihed On: Mar 11th, 2022
